@@ -1,0 +1,16 @@
+.container {
+  color: rgb(0, 202, 182);
+  text-align: center;
+  font-size: 35px;
+}
+
+body{
+  background-color: #CEA6FF;
+}
+
+a{
+  font-size: 33px;
+  background: #4600A1;
+  color: white;
+  box-shadow: 0 0 50px rgb(146, 110, 166);
+}
